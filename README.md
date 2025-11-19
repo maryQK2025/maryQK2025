@@ -31,30 +31,12 @@
 
 - **[Ph.D.]**, [2023]
 - **Teaching:** [Power System Analysis, Power Electronics Technology & Lecturer]
-- **Projects:**  
-  - [Energy Optimization Model 🚀](https://github.com/QK/energy-optimizer)
-  - [Sustainable Transition Simulation 🌐](https://github.com/QK/transition-strategy)
-- **Selected Publications:**  
-  - [Title](https://www.researchgate.net/publication/xxxx) · *Journal/Conference, Year*
-  - [Title](https://www.researchgate.net/publication/yyyy) · *Journal/Conference, Year*
-
----
-
-## 🌟 **Mission Statement**
-
-> *Empowering humanity with sustainable, low-carbon electricity for a greener future.*
 
 ---
 
 ## 🤝 **Connect & Collaborate**
 
-- **Website:** [yourwebsite.com]  
-- **Email:** your@email.com  
-- **Representative GitHub Project:** [Energy Optimization Models](https://github.com/QK/energy-optimizer)
-
----
-
-> 🔎 *Browse my repositories for energy system models, teaching materials, and research outputs.*
+- **Website:** [https://maryqk2025.github.io/]
 
 ---
 
